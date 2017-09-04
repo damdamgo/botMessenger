@@ -1,0 +1,233 @@
+{
+  "data":[
+    {
+      "FR":"transporter",
+      "EN":"to carry"
+    },{
+      "FR":"convoyer",
+      "EN":"to convey"
+    },{
+      "FR":"se diriger vers",
+      "EN":"to make for"
+    },{
+      "FR":"se diriger vers",
+      "EN":"to head for"
+    },{
+      "FR":"un passager",
+      "EN":"a passenger"
+    },{
+      "FR":"départ",
+      "EN":"departure"
+    },{
+      "FR":"arrivée",
+      "EN":"arrival"
+    },{
+      "FR":"un retard",
+      "EN":"a delay"
+    },{
+      "FR":"retardé",
+      "EN":"delayed"
+    },{
+      "FR":"le métro",
+      "EN":"the underground"
+    },{
+      "FR":"le métro",
+      "EN":"the subway"
+    },{
+      "FR":"le prix du trajet",
+      "EN":"the fare"
+    },{
+      "FR":"un train de banlieue",
+      "EN":"a commuter train"
+    },{
+      "FR":"un chemin de fer",
+      "EN":"a railway"
+    },{
+      "FR":"un chemin de fer",
+      "EN":"a railroad"
+    },{
+      "FR":"une ligne",
+      "EN":"a line"
+    },{
+      "FR":"une voie ferrée",
+      "EN":"a track"
+    },{
+      "FR":"un bateau",
+      "EN":"a ship"
+    },{
+      "FR":"un chantier naval",
+      "EN":"a shipyard"
+    },{
+      "FR":"charger",
+      "EN":"to load"
+    },{
+      "FR":"décharger",
+      "EN":"to unload"
+    },{
+      "FR":"l'équipage",
+      "EN":"the crew"
+    },{
+      "FR":"un port",
+      "EN":"a port"
+    },{
+      "FR":"un port",
+      "EN":"a harbour"
+    },{
+      "FR":"un phare",
+      "EN":"a lighthouse"
+    },{
+      "FR":"un aller simple",
+      "EN":"a single"
+    },{
+      "FR":"un aller simple",
+      "EN":"one-way ticket"
+    },{
+      "FR":"aller-retour",
+      "EN":"a return ticket"
+    },{
+      "FR":"jeter l'ancre",
+      "EN":"to drop anchor"
+    },{
+      "FR":"lever l'ancre",
+      "EN":"to weigh anchor"
+    },{
+      "FR":"un aéroport",
+      "EN":"an airport"
+    },{
+      "FR":"un appareil",
+      "EN":"an aircraft"
+    },{
+      "FR":"monter à bord",
+      "EN":"to board"
+    },{
+      "FR":"décoller",
+      "EN":"to take off"
+    },{
+      "FR":"atterrir",
+      "EN":"to land"
+    },{
+      "FR":"la piste d'atterrissage",
+      "EN":"the runway"
+    },{
+      "FR":"décalage horaire",
+      "EN":"jet lag"
+    },{
+      "FR":"souffrir du décalage",
+      "EN":"to be jetlagged"
+    },{
+      "FR":"réserver",
+      "EN":"to book"
+    },{
+      "FR":"annuler une réservation",
+      "EN":"to cancel a booking"
+    },{
+      "FR":"bondé",
+      "EN":"packed"
+    },{
+      "FR":"bondé",
+      "EN":"overcrowded"
+    },{
+      "FR":"faire du vélo",
+      "EN":"to cycle"
+    },{
+      "FR":"une moto",
+      "EN":"motorbike"
+    },{
+      "FR":"un motard",
+      "EN":"a biker"
+    },{
+      "FR":"un camion",
+      "EN":"a lorry"
+    },{
+      "FR":"un camion",
+      "EN":"a truck"
+    },{
+      "FR":"un 4 x 4",
+      "EN":"an SUV"
+    },{
+      "FR":"aller vite",
+      "EN":"to speed"
+    },{
+      "FR":"accélerer",
+      "EN":"speed up"
+    },{
+      "FR":"ralentir",
+      "EN":"to slow down"
+    },{
+      "FR":"un carambolage",
+      "EN":"a pileup"
+    },{
+      "FR":"entrer en collision",
+      "EN":"to collide"
+    },{
+      "FR":"un carrefour",
+      "EN":"a crossroads"
+    },{
+      "FR":"caler",
+      "EN":"to stalk"
+    },{
+      "FR":"klaxonner",
+      "EN":"to hoot"
+    },{
+      "FR":"le covoiturage",
+      "EN":"carpooling"
+    },{
+      "FR":"louer une voiture",
+      "EN":"to hire a car"
+    },{
+      "FR":"louer une voiture",
+      "EN":"to rent a car"
+    },{
+      "FR":"le volant",
+      "EN":"the steering wheel"
+    },{
+      "FR":"un pneu",
+      "EN":"a tyre"
+    },{
+      "FR":"un mécanicien",
+      "EN":"a mechanic"
+    },{
+      "FR":"permis de conduire",
+      "EN":"driving licence"
+    },{
+      "FR":"faire demi-tour",
+      "EN":"to do a u-turn"
+    },{
+      "FR":"un voyage",
+      "EN":"a trip"
+    },{
+      "FR":"un trajet",
+      "EN":"a journey"
+    },{
+      "FR":"loger à l'hôtel",
+      "EN":"to put up at"
+    },{
+      "FR":"loger à l'hôtel",
+      "EN":"to stay at a hotel"
+    },{
+      "FR":"hébergement",
+      "EN":"accommodation"
+    },{
+      "FR":"logement",
+      "EN":"accommodation"
+    },{
+      "FR":"pension complète",
+      "EN":"full"
+    },{
+      "FR":"demi-pension",
+      "EN":"half board"
+    },{
+      "FR":"tout compris",
+      "EN":"all-inclusive"
+    },{
+      "FR":"visiter les monuments",
+      "EN":"to see the sights"
+    },{
+      "FR":"faire de la randonnée",
+      "EN":"to hike"
+    },{
+      "FR":"un randonneur",
+      "EN":"a hiker"
+    }
+  ]
+}
